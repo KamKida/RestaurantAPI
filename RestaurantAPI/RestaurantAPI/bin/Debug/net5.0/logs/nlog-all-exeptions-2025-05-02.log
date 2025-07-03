@@ -1,0 +1,4 @@
+2025-05-02 22:07:23.7918 Error Restaurant with id: 44 DELETE action invoked.   
+2025-05-02 22:16:43.1660 Error Cannot open database "estaurantDb" requested by the login. The login failed.
+Login failed for user 'DESKTOP-BBM5JV5\Admin'.  Cannot open database "estaurantDb" requested by the login. The login failed.
+Login failed for user 'DESKTOP-BBM5JV5\Admin'. 

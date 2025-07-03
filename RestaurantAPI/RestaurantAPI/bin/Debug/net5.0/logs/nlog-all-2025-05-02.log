@@ -1,0 +1,20 @@
+2025-05-02 22:03:40.2002 Info Now listening on: https://localhost:5001   
+2025-05-02 22:03:40.2494 Info Now listening on: http://localhost:5000   
+2025-05-02 22:03:40.2494 Info Application started. Press Ctrl+C to shut down.   
+2025-05-02 22:03:40.2494 Info Hosting environment: Development   
+2025-05-02 22:03:40.2494 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-02 22:04:17.2993 Warn Restaurant with id: 44 DELETE action invoked.   
+2025-05-02 22:07:17.7283 Info Now listening on: https://localhost:5001   
+2025-05-02 22:07:17.7500 Info Now listening on: http://localhost:5000   
+2025-05-02 22:07:17.7500 Info Application started. Press Ctrl+C to shut down.   
+2025-05-02 22:07:17.7500 Info Hosting environment: Development   
+2025-05-02 22:07:17.7500 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-02 22:07:23.7918 Error Restaurant with id: 44 DELETE action invoked.   
+2025-05-02 22:16:14.2329 Info Now listening on: https://localhost:5001   
+2025-05-02 22:16:14.2547 Info Now listening on: http://localhost:5000   
+2025-05-02 22:16:14.2547 Info Application started. Press Ctrl+C to shut down.   
+2025-05-02 22:16:14.2547 Info Hosting environment: Development   
+2025-05-02 22:16:14.2547 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-02 22:16:43.1660 Error Cannot open database "estaurantDb" requested by the login. The login failed.
+Login failed for user 'DESKTOP-BBM5JV5\Admin'.  Cannot open database "estaurantDb" requested by the login. The login failed.
+Login failed for user 'DESKTOP-BBM5JV5\Admin'. 

@@ -1,0 +1,39 @@
+2025-05-10 13:24:53.9907 Info Now listening on: https://localhost:5001   
+2025-05-10 13:24:54.0114 Info Now listening on: http://localhost:5000   
+2025-05-10 13:24:54.0114 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 13:24:54.0114 Info Hosting environment: Development   
+2025-05-10 13:24:54.0114 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-10 13:48:59.2497 Info Now listening on: https://localhost:5001   
+2025-05-10 13:48:59.2678 Info Now listening on: http://localhost:5000   
+2025-05-10 13:48:59.2678 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 13:48:59.2678 Info Hosting environment: Development   
+2025-05-10 13:48:59.2678 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-10 14:12:56.3441 Info Now listening on: https://localhost:5001   
+2025-05-10 14:12:56.3624 Info Now listening on: http://localhost:5000   
+2025-05-10 14:12:56.3624 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 14:12:56.3624 Info Hosting environment: Development   
+2025-05-10 14:12:56.3624 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-10 14:15:26.4340 Info Request [POST] at /api/account/register took 18203 ms.   
+2025-05-10 14:20:24.1545 Info Now listening on: https://localhost:5001   
+2025-05-10 14:20:24.1795 Info Now listening on: http://localhost:5000   
+2025-05-10 14:20:24.1795 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 14:20:24.1795 Info Hosting environment: Development   
+2025-05-10 14:20:24.1844 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-10 14:21:00.5724 Error An error occurred while updating the entries. See the inner exception for details.  An error occurred while updating the entries. See the inner exception for details. 
+2025-05-10 14:21:49.1789 Info Now listening on: https://localhost:5001   
+2025-05-10 14:21:49.1967 Info Now listening on: http://localhost:5000   
+2025-05-10 14:21:49.1984 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 14:21:49.1984 Info Hosting environment: Development   
+2025-05-10 14:21:49.1984 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-10 14:22:53.6261 Error An error occurred while updating the entries. See the inner exception for details.  An error occurred while updating the entries. See the inner exception for details. 
+2025-05-10 14:23:20.5960 Info Now listening on: https://localhost:5001   
+2025-05-10 14:23:20.6142 Info Now listening on: http://localhost:5000   
+2025-05-10 14:23:20.6142 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 14:23:20.6142 Info Hosting environment: Development   
+2025-05-10 14:23:20.6142 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-10 14:23:51.5910 Error An error occurred while updating the entries. See the inner exception for details.  An error occurred while updating the entries. See the inner exception for details. 
+2025-05-10 14:27:11.2823 Info Now listening on: https://localhost:5001   
+2025-05-10 14:27:11.3002 Info Now listening on: http://localhost:5000   
+2025-05-10 14:27:11.3002 Info Application started. Press Ctrl+C to shut down.   
+2025-05-10 14:27:11.3002 Info Hosting environment: Development   
+2025-05-10 14:27:11.3002 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
