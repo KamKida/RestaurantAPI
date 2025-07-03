@@ -1,0 +1,2 @@
+2025-05-07 15:10:30.9226 Info Request [GET] at /api/restaurant took 12611 ms.   
+2025-05-10 14:15:26.4340 Info Request [POST] at /api/account/register took 18203 ms.   

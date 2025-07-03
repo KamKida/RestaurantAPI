@@ -1,0 +1,33 @@
+2025-05-07 14:19:54.4646 Info Now listening on: https://localhost:5001   
+2025-05-07 14:19:54.4880 Info Now listening on: http://localhost:5000   
+2025-05-07 14:19:54.4880 Info Application started. Press Ctrl+C to shut down.   
+2025-05-07 14:19:54.4880 Info Hosting environment: Development   
+2025-05-07 14:19:54.4880 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-07 14:20:32.5685 Error Restaurant not found.  Restaurant not found. 
+2025-05-07 14:20:32.5685 Error Restaurant not found.  Restaurant not found. 
+2025-05-07 14:22:11.9503 Info Now listening on: https://localhost:5001   
+2025-05-07 14:22:11.9718 Info Now listening on: http://localhost:5000   
+2025-05-07 14:22:11.9718 Info Application started. Press Ctrl+C to shut down.   
+2025-05-07 14:22:11.9718 Info Hosting environment: Development   
+2025-05-07 14:22:11.9718 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-07 14:26:31.8332 Info Now listening on: https://localhost:5001   
+2025-05-07 14:26:31.8540 Info Now listening on: http://localhost:5000   
+2025-05-07 14:26:31.8540 Info Application started. Press Ctrl+C to shut down.   
+2025-05-07 14:26:31.8540 Info Hosting environment: Development   
+2025-05-07 14:26:31.8540 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-07 14:35:18.6092 Info Now listening on: https://localhost:5001   
+2025-05-07 14:35:18.6298 Info Now listening on: http://localhost:5000   
+2025-05-07 14:35:18.6298 Info Application started. Press Ctrl+C to shut down.   
+2025-05-07 14:35:18.6298 Info Hosting environment: Development   
+2025-05-07 14:35:18.6298 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-07 15:09:10.1194 Info Now listening on: https://localhost:5001   
+2025-05-07 15:09:10.1416 Info Now listening on: http://localhost:5000   
+2025-05-07 15:09:10.1435 Info Application started. Press Ctrl+C to shut down.   
+2025-05-07 15:09:10.1435 Info Hosting environment: Development   
+2025-05-07 15:09:10.1435 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
+2025-05-07 15:10:30.9226 Info Request [GET] at /api/restaurant took 12611 ms.   
+2025-05-07 18:52:45.1297 Info Now listening on: https://localhost:5001   
+2025-05-07 18:52:45.1497 Info Now listening on: http://localhost:5000   
+2025-05-07 18:52:45.1497 Info Application started. Press Ctrl+C to shut down.   
+2025-05-07 18:52:45.1497 Info Hosting environment: Development   
+2025-05-07 18:52:45.1621 Info Content root path: C:\Users\Admin\OneDrive\Pulpit\Programowanie\WebAPI\RestaurantAPI\RestaurantAPI   
